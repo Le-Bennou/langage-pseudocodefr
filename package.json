@@ -1,6 +1,6 @@
 {
   "name": "language-pseudocodefr",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Adds syntax highlighting support for pseudocode in french.",
   "homepage": "https://github.com/Le-Bennou/language-pseudocodefr",
   "repository": {
