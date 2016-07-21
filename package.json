@@ -2,10 +2,10 @@
   "name": "language-pseudofr",
   "version": "0.1.3",
   "description": "Adds syntax highlighting support for pseudocode in french.",
-  "homepage": "https://github.com/TheoMessin/language-pseudofr",
+  "homepage": "https://github.com/Le-Bennou/language-pseudofr",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Bennou/language-pseudofr.git"
+    "url": "git+https://github.com/Le-Bennou/language-pseudofr.git"
   },
   "keywords": [
     "french",
@@ -13,7 +13,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Bennou/language-pseudofr/issues"
+    "url": "https://github.com/Le-Bennou/language-pseudofr/issues"
   },
   "engines": {
     "atom": ">0.50.0"
