@@ -1,0 +1,34 @@
+{
+  "name": "language-pseudofr",
+  "version": "0.1.3",
+  "description": "Adds syntax highlighting support for pseudocode in french.",
+  "homepage": "https://github.com/TheoMessin/language-pseudofr",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bennou/language-pseudofr.git"
+  },
+  "keywords": [
+    "french",
+    "pseudocode"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bennou/language-pseudofr/issues"
+  },
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {},
+  "readme": "# language-pseudofr package\nAdds syntax highlighting support for french pseudocode files ( sdo or pseudo extensions ).\nBased on https://atom.io/users/TheoMessin language-pseudo package",
+  "readmeFilename": "README.md",
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "extensions": {
+      ".json": [
+        "package.json"
+      ]
+    },
+    "folders": []
+  }
+}
